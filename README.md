@@ -1,8 +1,8 @@
-### Hi! I'm Carlos Daniel
+### Hi, I'm Carlos Daniel!🇧🇷
 
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/bbefa799786133.5efa9bf3d1b49.gif" />
 
-##
+## Meus dados no GitHub
 
 <div align="center">
   <a href="https://github.com/CarlosDanniel">
@@ -11,6 +11,18 @@
       <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosDanniel&layout=compact&langs_count=7&theme=cobalt"/>
     </div>
 </div>
+  
+## Tecnologias que estou estudando atualmente 💻
+
+  - HTML
+  - CSS
+  - JavaScript
+
+## Alguns fatos sobre mim
+
+- Sou apaixonado por games. 🎮
+
+- Estou cursando Análise e Desenvolvimento de Sistemas. 💻
   
 ##
   
@@ -25,7 +37,7 @@
 ##
 
   <br/>
-<div> 
+<div>
   <a href="https://www.youtube.com/channel/UCt2X57rd05AFiq0Fmyxn7fQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/niel_edit/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:cp.danniel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
