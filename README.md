@@ -23,15 +23,15 @@
 </div>
   
 ##
-  
+
+  <br/>
 <div> 
   <a href="https://www.youtube.com/channel/UCt2X57rd05AFiq0Fmyxn7fQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/niel_edit/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:cp.danniel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/carlos-daniel-a28b91234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  <a href="https://www.linkedin.com/in/carlos-daniel-a28b91234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
   
-  ##
+##
   
 ![Snake animation](https://github.com/CarlosDanniel/CarlosDanniel/blob/output/github-contribution-grid-snake.svg)
