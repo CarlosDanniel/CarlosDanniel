@@ -7,9 +7,9 @@
 <img width="100%" height="30px" src="https://i.pinimg.com/originals/49/e7/6e/49e76e0596857673c5c80c85b84394c1.gif"/>
 
 <div align="center">
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=CarlosDanniel&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosDanniel&layout=compact&langs_count=7&theme=cobalt"/>
-  <img align="center" height="270em" src="https://1.bp.blogspot.com/-P2czKkFRxR4/XsWVqthXVXI/AAAAAAABJVY/sEYSKbsGUZcogNCAnoxzmGGTau8Q-OPkACK4BGAsYHg/MATEM%25C3%2581TICA2.gif"/>
+  <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api?username=CarlosDanniel&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img align="center" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosDanniel&layout=compact&langs_count=7&theme=cobalt"/>
+  <img align="center" height="220em" src="https://1.bp.blogspot.com/-P2czKkFRxR4/XsWVqthXVXI/AAAAAAABJVY/sEYSKbsGUZcogNCAnoxzmGGTau8Q-OPkACK4BGAsYHg/MATEM%25C3%2581TICA2.gif"/>
 </div>
 
   <img width="100%" height="30px" src="https://i.pinimg.com/originals/49/e7/6e/49e76e0596857673c5c80c85b84394c1.gif"/>
